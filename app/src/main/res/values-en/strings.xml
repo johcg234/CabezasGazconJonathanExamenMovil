@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Units Converter</string>
+    <string name="Tipo_1">Temperature units</string>
+    <string name="Tipo_2">Distance units</string>
+    <string name="MetrosCenti">Meter to Centimeter</string>
+    <string name="CentiMetros">Centimeter to Meter</string>
+    <string name="CentiPulga">Centimeter to Inch</string>
+    <string name="PulgaCenti">Inch to Centimeter</string>
+    <string name="Temp1">Celsius to Fahrenheit</string>
+    <string name="Temp2">Fahrenheit to Celsius</string>
+    <string name="Temp3">Celsius to Kelvin</string>
+    <string name="Temp4">Kelvin to Celsius</string>
+    <string name="uni">Unit</string>
+    <string name="cal">Calculate</string>
+    <string name="res">Result</string>
+</resources>

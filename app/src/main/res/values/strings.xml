@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unidades De Conversion</string>
+    <string name="Tipo_1">Unidades De Temperatura</string>
+    <string name="Tipo_2">Unidades De Distancia</string>
+    <string name="MetrosCenti">Metros A Centimetros</string>
+    <string name="CentiMetros">Centimetros A Metros</string>
+    <string name="CentiPulga">Centimetros A Pulgadas</string>
+    <string name="PulgaCenti">Pulgada A Centimetros</string>
+    <string name="Temp1">Celsius A Fahrenheit</string>
+    <string name="Temp2">Fahrenheit A Celsius</string>
+    <string name="Temp3">Celsius A Kelvin</string>
+    <string name="Temp4">Kelvin A Celsius</string>
+    <string name="uni">Unidad</string>
+    <string name="cal">Calcular</string>
+    <string name="res">Resultado</string>
+
+</resources>
